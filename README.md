@@ -43,8 +43,3 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-For any inquiries or feedback, please contact:
-- **Name**: Sasidharan
-- **Email**: sasidharan0827@gmail.com
-- **Phone**: +91 9994101850
